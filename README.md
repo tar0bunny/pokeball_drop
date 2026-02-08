@@ -43,4 +43,13 @@ When a Pokeball successfully lands in a ditch, the game uses **weighted probabil
 Once a Pokemon is selected, the game uses its Pokedex number to make an API request and retrieve the corresponding sprite image which is then displayed on screen. 
 
 If the player misses, the game playfully mocks their failure and encourages them to try again. 
-# pokeball_drop
+
+# Screenshots
+<img width="801" height="583" alt="image" src="https://github.com/user-attachments/assets/9289ce42-e70a-4b2b-b35c-896fdd5f7021" />
+
+<img width="816" height="583" alt="image" src="https://github.com/user-attachments/assets/f082836c-004c-4f4b-a109-d44d1af0b101" />
+
+<img width="816" height="580" alt="image" src="https://github.com/user-attachments/assets/e60f84c1-1525-4bcd-9f3d-9c1e356180f4" />
+
+
+
